@@ -286,7 +286,7 @@ a {
 a:hover, a:focus, a:active {
   text-decoration: none;
   border: none;
-  color: #2E8B57;
+  color: #4682b4;
 }
 
 /* MEDIA */
@@ -335,14 +335,14 @@ del {
 }
 
 ::-moz-selection {
-  background: #2E8B57;
+  background: #4682b4;
   color: #fff;
   text-shadow: none
 }
 
 /* selected text */
 ::selection {
-  background: #2E8B57;
+  background: #4682b4;
   color: #fff;
   text-shadow: none
 }
@@ -536,7 +536,7 @@ body {
   border: 1px solid #f1f1f1;
   border-radius: 40px;
   
-  box-shadow: 0px 6px #2E8B57;
+  box-shadow: 0px 6px #4682b4;
   
 }
 
@@ -579,7 +579,7 @@ body {
 
 .tab a.active {
   padding-top: 10px;
-  color: #2E8B57;
+  color: #4682b4;
 }
 
 .tab a i {
@@ -664,7 +664,7 @@ body {
 
 .info h4, #header h4 {
   text-align: center;
-  color: #2E8B57;
+  color: #4682b4;
   margin-top: 15px;
   margin-bottom: -45px;
   
@@ -738,7 +738,7 @@ body {
 .item-box .item-data p {
   margin: 0px;
   font-size: 12px;
-  color: #2E8B57;
+  color: #4682b4;
   text-decoration-style: bold;
 }
 
@@ -831,11 +831,11 @@ body {
   font-size: 36px;
   margin-top: -100px;
   margin-bottom: 47px;
-  color:#2E8B57; 
+  color:#4682b4; 
 }
 .sny-icon-content h5 {
   font-weight: bold;
-  color:#2E8B57; 
+  color:#4682b4; 
 }
 
 .sny-icon-content p {
@@ -845,7 +845,7 @@ body {
 
 .bold-green h5  {
   font-weight: bold;
-  color: #2E8B57;
+  color: #4682b4;
 }
 
 /* Buttons */
@@ -1116,7 +1116,7 @@ input[type=text], .project_description, input[type=url] {
 }
 
 .emerald>span {
-  background-color: #2E8B57;
+  background-color: #4682b4;
 }
 
 .carrot>span {
