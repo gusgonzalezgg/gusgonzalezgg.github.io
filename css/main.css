@@ -6,8 +6,10 @@
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   margin: 0;
-  padding: 0;
-}
+  padding: 0;}
+
+ 
+
 
 /* HTML5 DECLARATIONS */
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section, dialog {
@@ -950,7 +952,7 @@ body {
 .project-container {
   max-width: 240px;
   border-radius: 5px;
-  background-color: #5cb85c;
+  background-color: #4682b4;
   color: #fff;
   cursor: pointer;
   box-shadow: 2px 2px 5px 3px #5cb85c27;
@@ -972,6 +974,8 @@ body {
   margin: 1.2rem auto;
   font-size: 1.2rem;
   font-weight: 600;
+  margin-top: 5;
+  margin-bottom: 5;
 }
 .project_details{
   text-align: center;
@@ -995,7 +999,7 @@ input[type=text], .project_description, input[type=url] {
 
 /* Set a style for all buttons */
 .project_submit {
-  background-color: #4CAF50;
+  background-color: #4682b4;
   color: white;
   padding: 14px 20px;
   margin: 5px 26px;
